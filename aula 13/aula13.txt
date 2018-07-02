@@ -1,0 +1,2 @@
+Por problemas de comunicação de equipe não foi usado  principios SOLID,mas na minha Branch("PedroAlvez") eu fiz varias classes que que poderiam ser usadas com principio SOLID,como no script "gameStateManager.py" que ela servia praticamente para controlar os estado do jogo,as variaveis não são acessadas diretamente,mas atraves de metodos.
+Usando decoradores(script "delegation.py") pude selecionar com mais facilidade o que era para fazer em cada frame(quais desenhos tinha que ser feitos e em qual ordem das layers)
